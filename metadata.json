@@ -1,0 +1,22 @@
+{
+    "id": "gaymr",
+    "name": "GAYMR",
+    "description": "CZ/SK Survival minecraft server.",
+    "addresses": [
+        "mc.gaymr.cz"
+    ],
+    "primaryAddress": "mc.gaymr.cz",
+    "primaryMinecraftVersion": "1.20.2",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "minecraftVersions": [
+        "1.20.*"
+    ],
+    "gameTypes": [
+        "Survival",
+    ],
+    "primaryColor": "#3700ff",
+    "secondaryColor": "#ffffff",
+}
